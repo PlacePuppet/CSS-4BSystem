@@ -1,4 +1,4 @@
-    const foodItem= [
+const foodItem = [
     {
         id: 1,
         name: 'Plain Lugaw',
@@ -182,5 +182,4 @@
         img: 'images/special/Lumpiang Shanhai.jpg',
         quantity: 1
     },
-    ]
-    export {foodItem};
+    ];    export {foodItem};
